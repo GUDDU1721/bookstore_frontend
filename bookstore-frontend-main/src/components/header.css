@@ -1,0 +1,16 @@
+.navbar{
+    width: 50%;
+    height: 8vh;
+    /* background: black; */
+    color: wheat;
+    display: flex;
+    align-items: center;
+    margin-left: 2;
+    justify-content: space-evenly;
+  }
+  a{
+    color: aqua;
+    text-decoration: none;
+  }
+  
+  
